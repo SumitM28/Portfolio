@@ -8,3 +8,4 @@ In this, My all project's links are available you can see my project by clicking
 4. Hotel Booking App (Fullstack App): https://github.com/SumitM28/Booking-App
 5. Food App (Frontend App): https://github.com/SumitM28/Food-App
 6. Chat App (Fullstack App): https://github.com/SumitM28/Real-Time-Chat-App
+8. Uber Eats Clone (Android App): https://github.com/SumitM28/uber-eats-clone
